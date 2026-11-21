@@ -1,0 +1,18 @@
+{
+    "Vendor Name": "DEMO - Sliced Invoices",
+    "Vendor Address": "Suite 5A-1204\n123 Somewhere Street\nYour City AZ 12345",
+    "Customer Name": "Test Business",
+    "Customer Address": "123 Somewhere St\nMelbourne, VIC 3000",
+    "Invoice Number": "INV-3337",
+    "Order Number": "12345",
+    "Invoice Date": "2016-01-25",
+    "Due Date": "2016-01-31",
+    "Subtotal": 85.0,
+    "Tax Amount": 8.5,
+    "Tax Type": null,
+    "Total Amount": 93.5,
+    "Payment Status": "Paid",
+    "Discounts": null,
+    "Shipping / Delivery Charge": null,
+    "Service Charge": null
+}

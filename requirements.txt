@@ -1,0 +1,5 @@
+langchain-community
+pypdf
+python-dotenv
+langchain-groq
+pydantic

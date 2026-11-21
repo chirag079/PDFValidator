@@ -1,0 +1,5 @@
+Vendor Name,Vendor Address,Customer Name,Customer Address,Invoice Number,Order Number,Invoice Date,Due Date,Subtotal,Tax Amount,Tax Type,Total Amount,Payment Status,Discounts,Shipping / Delivery Charge,Service Charge
+DEMO - Sliced Invoices,"Suite 5A-1204
+123 Somewhere Street
+Your City AZ 12345",Test Business,"123 Somewhere St
+Melbourne, VIC 3000",INV-3337,12345,2016-01-25,2016-01-31,85.0,8.5,,93.5,Paid,,,

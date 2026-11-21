@@ -1,0 +1,18 @@
+{
+    "Vendor Name": "Larkfield Stationers",
+    "Vendor Address": "22 Example Market, Sampleton 000 000",
+    "Customer Name": "Example Traders (fictional)",
+    "Customer Address": "Unit 5, Specimen Industrial Estate\nSampleton 000 000",
+    "Invoice Number": "INV-2026-0142",
+    "Order Number": "PO-77310",
+    "Invoice Date": "2026-09-18",
+    "Due Date": "2026-10-18",
+    "Subtotal": 14702.0,
+    "Tax Amount": 2646.36,
+    "Tax Type": "GST",
+    "Total Amount": 17348.36,
+    "Payment Status": null,
+    "Discounts": null,
+    "Shipping / Delivery Charge": null,
+    "Service Charge": null
+}
